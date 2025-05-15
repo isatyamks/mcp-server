@@ -1,0 +1,10 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/progress/page": "app/dashboard/progress/page.js",
+  "/login/page": "app/login/page.js",
+  "/explore/page": "app/explore/page.js",
+  "/dashboard/submit/page": "app/dashboard/submit/page.js",
+  "/dashboard/tasks/page": "app/dashboard/tasks/page.js",
+  "/dashboard/certificates/page": "app/dashboard/certificates/page.js",
+  "/dashboard/packages/[id]/page": "app/dashboard/packages/[id]/page.js"
+}
